@@ -1,0 +1,12 @@
+C:\Users\-fr\source\repos\Tutorials\MyMVA(ASP.NET_2.0)\obj\Debug\netcoreapp2.0\MyMVA(ASP.NET_2.0).csprojAssemblyReference.cache
+C:\Users\-fr\source\repos\Tutorials\MyMVA(ASP.NET_2.0)\obj\Debug\netcoreapp2.0\MyMVA(ASP.NET_2.0).csproj.CoreCompileInputs.cache
+C:\Users\-fr\source\repos\Tutorials\MyMVA(ASP.NET_2.0)\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\-fr\source\repos\Tutorials\MyMVA(ASP.NET_2.0)\obj\Debug\netcoreapp2.0\MyMVA(ASP.NET_2.0).AssemblyInfoInputs.cache
+C:\Users\-fr\source\repos\Tutorials\MyMVA(ASP.NET_2.0)\obj\Debug\netcoreapp2.0\MyMVA(ASP.NET_2.0).AssemblyInfo.cs
+C:\Users\-fr\source\repos\Tutorials\MyMVA(ASP.NET_2.0)\bin\Debug\netcoreapp2.0\MyMVA(ASP.NET_2.0).deps.json
+C:\Users\-fr\source\repos\Tutorials\MyMVA(ASP.NET_2.0)\bin\Debug\netcoreapp2.0\MyMVA(ASP.NET_2.0).runtimeconfig.json
+C:\Users\-fr\source\repos\Tutorials\MyMVA(ASP.NET_2.0)\bin\Debug\netcoreapp2.0\MyMVA(ASP.NET_2.0).runtimeconfig.dev.json
+C:\Users\-fr\source\repos\Tutorials\MyMVA(ASP.NET_2.0)\bin\Debug\netcoreapp2.0\MyMVA(ASP.NET_2.0).dll
+C:\Users\-fr\source\repos\Tutorials\MyMVA(ASP.NET_2.0)\bin\Debug\netcoreapp2.0\MyMVA(ASP.NET_2.0).pdb
+C:\Users\-fr\source\repos\Tutorials\MyMVA(ASP.NET_2.0)\obj\Debug\netcoreapp2.0\MyMVA(ASP.NET_2.0).dll
+C:\Users\-fr\source\repos\Tutorials\MyMVA(ASP.NET_2.0)\obj\Debug\netcoreapp2.0\MyMVA(ASP.NET_2.0).pdb
