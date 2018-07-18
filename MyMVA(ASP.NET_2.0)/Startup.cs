@@ -11,6 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MyMVA_ASP.NET_2._0_.Data;
 using MyMVA_ASP.NET_2._0_.Services;
+using Microsoft.Extensions.Logging;
 
 namespace MyMVA_ASP.NET_2._0_
 {
@@ -40,14 +41,19 @@ namespace MyMVA_ASP.NET_2._0_
                     options.Conventions.AuthorizePage("/Account/Logout");
                 });
 
+            services.AddLogging();
+
             // Register no-op EmailSender used by account confirmation and password reset during development
             // For more information on how to enable account confirmation and password reset please visit https://go.microsoft.com/fwlink/?LinkID=532713
             services.AddSingleton<IEmailSender, EmailSender>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
+            loggerFactory.AddConsole();
+            loggerFactory.AddDebug();
+
             if (env.IsDevelopment())
             {
                 app.UseBrowserLink();

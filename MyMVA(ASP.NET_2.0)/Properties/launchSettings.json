@@ -13,6 +13,8 @@
       "launchBrowser": true,
       "launchUrl": "https://localhost:44344/",
       "environmentVariables": {
+        "Logging:LogLevel:Default": "Trace",
+        "appsettings:Development:Logging:LogLevel:Default": "Trace",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },

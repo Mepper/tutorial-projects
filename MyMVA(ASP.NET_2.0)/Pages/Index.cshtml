@@ -5,4 +5,9 @@
     ViewData["Title"] = "Home page";
 }
 
+<repeat count="6">
+    <p>This text will repeat @__TagHelpers_RepeatTagHelper.Count times!</p>
+</repeat>
 <h1>This is my machine name: @Configuration["computername"]</h1>
+
+<h2>This is my Twitter key: @Configuration["MyTwitterKey"]</h2>
